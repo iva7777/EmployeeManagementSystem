@@ -128,8 +128,3 @@ Here is also visible a possible UI design realization made with Figma:
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 **Made with ❤️ using Java & Spring Boot**
-```
-
----
-
-Let me know if you'd like a `swagger-config` class added too (for grouping APIs or customizing titles/descriptions), or if you want a working example of the Swagger-generated output.
